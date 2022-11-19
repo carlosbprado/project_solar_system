@@ -30,4 +30,9 @@ Fazer uso de PropTypes para validar as props de um componente.
 
 **Front-end:** React, CSS, JavaScript
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/tryber/sd-024-a-project-solar-system/master/public/examples/req6.png?token=GHSAT0AAAAAAB3NADU4ATOT376JGNKKWXQSY3ZJ53A)
+   ![App Screenshot](https://raw.githubusercontent.com/tryber/sd-024-a-project-solar-system/master/public/examples/req10.png?token=GHSAT0AAAAAAB3NADU435YJXTXVT4QS3ETWY3ZJ7QQ)
+
 
